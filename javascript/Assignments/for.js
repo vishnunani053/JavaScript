@@ -92,7 +92,6 @@ let b=1
 c=a+b;
 for (let i = 1; i<=num; i=i+1) {
    console.log(a);
-   
 a=b;
 b=c;
 c=a+b
